@@ -1,0 +1,35 @@
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\Фабричный метод.exe
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\Фабричный метод.deps.json
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\Фабричный метод.runtimeconfig.json
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\Фабричный метод.runtimeconfig.dev.json
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\Фабричный метод.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\ref\Фабричный метод.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\Фабричный метод.pdb
+C:\Users\basta\Desktop\Программы\Фабричный метод\obj\Debug\net5.0\Фабричный метод.csproj.AssemblyReference.cache
+C:\Users\basta\Desktop\Программы\Фабричный метод\obj\Debug\net5.0\Фабричный метод.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basta\Desktop\Программы\Фабричный метод\obj\Debug\net5.0\Фабричный метод.AssemblyInfoInputs.cache
+C:\Users\basta\Desktop\Программы\Фабричный метод\obj\Debug\net5.0\Фабричный метод.AssemblyInfo.cs
+C:\Users\basta\Desktop\Программы\Фабричный метод\obj\Debug\net5.0\Фабричный метод.csproj.CoreCompileInputs.cache
+C:\Users\basta\Desktop\Программы\Фабричный метод\obj\Debug\net5.0\Фабричный метод.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\obj\Debug\net5.0\ref\Фабричный метод.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\obj\Debug\net5.0\Фабричный метод.pdb
+C:\Users\basta\Desktop\Программы\Фабричный метод\obj\Debug\net5.0\Фабричный метод.genruntimeconfig.cache
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\EPPlus.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\basta\Desktop\Программы\Фабричный метод\obj\Debug\net5.0\Фабричный метод.csproj.CopyComplete
